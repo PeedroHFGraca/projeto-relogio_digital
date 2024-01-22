@@ -3,8 +3,7 @@
 </p>
 
 
-## 💻 Projeto Relogio digital ⏱️
-Relogio digital *Dinâmico* 🕑
+## 💻 Projeto Relogio digital *Dinâmico* 🕑
 - Aquele *clássico* que não pode faltar no portifólio inicial de um Dev né?! Confira o horário exato!
 
 
