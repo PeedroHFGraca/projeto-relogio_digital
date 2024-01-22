@@ -1,5 +1,5 @@
 <p style="text-align: center">
-        <img alt="projeto weatherForecast" src="assets/css/img.png" width="100%">
+        <img alt="relogio_digital" src="assets/css/img.png" width="100%">
 </p>
 
 
